@@ -1,0 +1,23 @@
+\BOOKMARK [0][-]{chapter.1}{Comunicaci\363n de aplicaciones usando el protocolo UDP}{}% 1
+\BOOKMARK [1][-]{section.1.1}{An\341lisis de captura de tr\341fico UDP}{chapter.1}% 2
+\BOOKMARK [1][-]{section.1.2}{Estudio de UDP mediante aplicaciones cliente y servidor lanzadas con nc}{chapter.1}% 3
+\BOOKMARK [2][-]{subsection.1.2.1}{UDP es un protocolo basado en datagramas: no hay establecimiento de conexi\363n}{section.1.2}% 4
+\BOOKMARK [2][-]{subsection.1.2.2}{Fragmentaci\363n IP con env\355os UDP}{section.1.2}% 5
+\BOOKMARK [2][-]{subsection.1.2.3}{UDP es un protocolo basado en datagramas: no hay cierre de conexi\363n}{section.1.2}% 6
+\BOOKMARK [2][-]{subsection.1.2.4}{Buffer de recepci\363n en UDP}{section.1.2}% 7
+\BOOKMARK [2][-]{subsection.1.2.5}{Errores en las comunicaciones UDP}{section.1.2}% 8
+\BOOKMARK [0][-]{chapter.2}{Comunicaci\363n de aplicaciones usando el protocolo TCP}{}% 9
+\BOOKMARK [1][-]{section.2.1}{TCP es un protocolo orientado a conexi\363n.}{chapter.2}% 10
+\BOOKMARK [2][-]{subsection.2.1.1}{Establecimiento de conexi\363n}{section.2.1}% 11
+\BOOKMARK [2][-]{subsection.2.1.2}{Cierre de conexi\363n}{section.2.1}% 12
+\BOOKMARK [1][-]{section.2.2}{Buffer de recepci\363n en TCP}{chapter.2}% 13
+\BOOKMARK [1][-]{section.2.3}{Errores en las comunicaciones TCP}{chapter.2}% 14
+\BOOKMARK [1][-]{section.2.4}{An\341lisis inicial de la captura de TCP}{chapter.2}% 15
+\BOOKMARK [1][-]{section.2.5}{N\372meros de secuencia}{chapter.2}% 16
+\BOOKMARK [1][-]{section.2.6}{RTT}{chapter.2}% 17
+\BOOKMARK [1][-]{section.2.7}{Retransmisi\363n de SYN}{chapter.2}% 18
+\BOOKMARK [1][-]{section.2.8}{Funcionamiento b\341sico de la ventana anunciada}{chapter.2}% 19
+\BOOKMARK [1][-]{section.2.9}{Retransmisiones y asentimientos}{chapter.2}% 20
+\BOOKMARK [1][-]{section.2.10}{Sondas de ventana}{chapter.2}% 21
+\BOOKMARK [1][-]{section.2.11}{Factor de escala sobre la ventana anunciada}{chapter.2}% 22
+\BOOKMARK [1][-]{section.2.12}{MSS}{chapter.2}% 23
